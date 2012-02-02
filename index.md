@@ -3,7 +3,7 @@ layout: default
 title: GitHub Projects
 ---
 
-GitHub Projects
-===============
-
-Coming soon, for now checkout [github.com/sparksp](http://github.com/sparksp).
+<header class="jumbotron subhead" id="overview">
+	<h1>GitHub Projects</h1>
+    <p class="lead">Coming soon, for now checkout <a href="http://github.com/sparksp/">github.com/sparksp</a></p>
+</header>
