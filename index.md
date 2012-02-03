@@ -25,7 +25,7 @@ title: GitHub Projects
 			<li><a href="http://github.com/sparksp/laravel-markdown">Markdown Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-syntaxhighlighter/">SyntaxHighlighter Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-html-menu/">Τόπος Bundle</a></li>
-			<li><a href="http://sparksp.github.com/laravel-twitter">Twitter Bundle</a></li>
+			<li><a href="http://github.com/sparksp/laravel-twitter">Twitter Bundle</a></li>
 		</ul></nav>
 	</div><div class="span3">
 		<nav><ul class="nav nav-list">
