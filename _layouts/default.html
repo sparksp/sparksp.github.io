@@ -16,8 +16,6 @@
 </head>
 <body>
 
-	<a href="https://github.com/sparksp"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub" /></a>
-
 	<header class="masthead"><div class="container">
 		<h1><a href="http://phills.me.uk/">Phill S<small>parks</small></a></h1>
 		<nav><ul class="nav nav-tabs pull-left">
@@ -34,8 +32,12 @@
 		</ul></nav>
 	</div></header>
 	
-	<div id="body" class="container">
-		{{ content }}
+	<div style="position: relative; top: 0; left: 0">
+		<a href="https://github.com/sparksp"><img style="position: absolute; top: -1em; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub" /></a>
+
+		<div id="body" class="container">
+			{{ content }}
+		</div>
 	</div>
 
 	<footer class="mastfoot container" id="bottom">
