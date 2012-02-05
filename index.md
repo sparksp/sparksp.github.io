@@ -21,6 +21,7 @@ title: GitHub Projects
 	</div><div class="span3 offset3">
 		<nav><ul class="nav nav-list">
 			<li class="nav-header">Laravel Bundles</li>
+			<li><a href="http://sparksp.github.com/laravel-apigen/">ApiGen Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-gravatar/">Gravitas Bundle</a></li>
 			<li><a href="http://github.com/sparksp/laravel-markdown">Markdown Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-syntaxhighlighter/">SyntaxHighlighter Bundle</a></li>
