@@ -35,7 +35,9 @@
 	</div></header>
 	
 	<div style="position: relative; top: 0; left: 0">
-		<a href="https://github.com/sparksp"><img style="position: absolute; top: -1em; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub" /></a>
+		{% if page.fork-path %}
+		<a href="{{page.fork-path}}"><img style="position: absolute; top: -1em; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub" /></a>
+		{% endif %}
 
 		<div id="body" class="container">
 			{{ content }}
