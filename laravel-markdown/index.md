@@ -30,16 +30,16 @@ Just add `'sparkdown'` to your **application/bundles.php** file.
 
 Start the bundle and use Sparkdown\Markdown
 
-{% highlight php %}
-	Bundle::start('sparkdown');
-	echo Sparkdown\Markdown($text);
+{% highlight php startinline %}
+Bundle::start('sparkdown');
+echo Sparkdown\Markdown($text);
 {% endhighlight %}
 
 ### View a markdown file
 
 You can create Sparkdown\View objects, like Laravel\View objects
 
-{% highlight php %}
+{% highlight php startinline %}
 Router::register('GET /about', function()
 {
 	// View of application/views/about.md
@@ -53,6 +53,6 @@ Router::register('GET /about', function()
 
 And you can route to the handy controller (needs 1 parameter).
 
-{% highlight php %}
+{% highlight php startinline %}
 Route::get('(about)', 'sparkdown::page@show');
 {% endhighlight %}
