@@ -13,7 +13,7 @@ Links and image URLs are passed through Laravel\URL::to and Larave\URL::to_asset
 
 Install via the Artisan CLI:
 
-{% highlight sh %}
+{% highlight %}
 php artisan bundle:install sparkdown
 {% endhighlight %}
 
