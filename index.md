@@ -25,7 +25,7 @@ fork-path: https://github.com/sparksp
 			<li><a href="http://sparksp.github.com/laravel-apigen/">ApiGen Bundle</a></li>
 			<li><a href="http://github.com/sparksp/laravel-bootstrap">Bootsparks Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-gravatar/">Gravitas Bundle</a></li>
-			<li><a href="http://github.com/sparksp/laravel-markdown">Sparkdown Bundle</a></li>
+			<li><a href="/laravel-markdown">Sparkdown Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-syntaxhighlighter/">SyntaxHighlighter Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-html-menu/">Τόπος Bundle</a></li>
 		</ul></nav>
