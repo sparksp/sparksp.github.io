@@ -22,20 +22,19 @@ title: GitHub Projects
 		<nav><ul class="nav nav-list">
 			<li class="nav-header">Laravel Bundles</li>
 			<li><a href="http://sparksp.github.com/laravel-apigen/">ApiGen Bundle</a></li>
+			<li><a href="http://github.com/sparksp/laravel-bootstrap">Bootsparks Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-gravatar/">Gravitas Bundle</a></li>
-			<li><a href="http://github.com/sparksp/laravel-markdown">Markdown Bundle</a></li>
+			<li><a href="http://github.com/sparksp/laravel-markdown">Sparkdown Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-syntaxhighlighter/">SyntaxHighlighter Bundle</a></li>
 			<li><a href="http://sparksp.github.com/laravel-html-menu/">Τόπος Bundle</a></li>
-			<li><a href="http://github.com/sparksp/laravel-twitter">Twitter Bundle</a></li>
 		</ul></nav>
 	</div><div class="span3">
 		<nav><ul class="nav nav-list">
-			<li class="nav-header">Laravel (Core) Forks</li>
-			<li><a href="http://github.com/sparksp/laravel">Laravel</a></li>
-			<li><a href="http://github.com/sparksp/laravel-docs">Laravel Docs</a></li>
-			<li><a href="http://github.com/sparksp/laravel-tests">Laravel Tests</a></li>
-			<li class="nav-header">Laravel Bundle Forks</li>
-			<li><a href="http://github.com/sparksp/laravel-eloquent">Eloquent Bundle</a></li>
+			<li class="nav-header">Laravel Projects</li>
+			<li><a href="http://github.com/laravel/laravel">Laravel</a></li>
+			<li><a href="http://github.com/laravel/docs">Laravel Docs</a></li>
+			<li><a href="http://github.com/laravel/fluxbb-style">Laravel FluxBB Style</a></li>
+			<li><a href="http://github.com/laravel/tests">Laravel Tests</a></li>
 		</ul></nav>
 	</div>
 </div>
