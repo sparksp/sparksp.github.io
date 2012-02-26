@@ -27,7 +27,7 @@ fork-path: https://github.com/sparksp
 			<li><a href="/laravel-gravatar">Gravitas Bundle</a></li>
 			<li><a href="/laravel-markdown">Sparkdown Bundle</a></li>
 			<li><a href="/laravel-syntaxhighlighter">SyntaxHighlighter Bundle</a></li>
-			<li><a href="http://sparksp.github.com/laravel-html-menu/">Τόπος Bundle</a></li>
+			<li><a href="/laravel-html-menu">Τόπος Bundle</a></li>
 		</ul></nav>
 	</div><div class="span3">
 		<nav><ul class="nav nav-list">
