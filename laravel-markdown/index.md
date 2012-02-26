@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sparkdown
+title: Sparkdown Bundle
 fork-path: https://github.com/sparksp/laravel-markdown
 ---
 

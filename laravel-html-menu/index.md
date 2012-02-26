@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Topos
+title: Τόπος Bundle (Topos)
 fork-path: https://github.com/sparksp/laravel-html-menu
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ApiGen
+title: ApiGen Bundle
 fork-path: https://github.com/sparksp/laravel-apigen
 ---
 

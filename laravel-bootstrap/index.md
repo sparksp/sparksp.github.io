@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bootsparks
+title: Bootsparks Bundle
 fork-path: https://github.com/sparksp/laravel-bootstrap
 ---
 

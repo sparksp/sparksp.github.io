@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SyntaxHighlighter
+title: SyntaxHighlighter Bundle
 fork-path: https://github.com/sparksp/laravel-syntaxhighlighter
 ---
 

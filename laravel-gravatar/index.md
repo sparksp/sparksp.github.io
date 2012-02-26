@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gravitas
+title: Gravitas Bundle
 fork-path: https://github.com/sparksp/laravel-gravatar
 ---
 
