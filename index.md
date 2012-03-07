@@ -26,6 +26,7 @@ fork-path: https://github.com/sparksp
 			<li><a href="/laravel-bootstrap">Bootsparks Bundle</a></li>
 			<li><a href="/laravel-gravatar">Gravitas Bundle</a></li>
 			<li><a href="/laravel-markdown">Sparkdown Bundle</a></li>
+			<li><a href="/laravel-service">Service Bundle <small class="label label-info">new</small></a></li>
 			<li><a href="/laravel-syntaxhighlighter">SyntaxHighlighter Bundle</a></li>
 			<li><a href="/laravel-html-menu">Τόπος Bundle</a></li>
 		</ul></nav>
