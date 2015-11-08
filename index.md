@@ -14,8 +14,8 @@ fork-path: https://github.com/sparksp
 		<nav><ul class="nav nav-list">
 			<li class="nav-header">Websites</li>
 			<li><a href="//github.com/sparksp/phills.me.uk">Phill Sparks</a></li>
+			<li><a href="//github.com/sparksp/habook">High Adventure</a></li>
 			<li><a href="//github.com/sparksp/womble">Womble</a></li>
-			<li><a href="//github.com/sparksp/habook">Womble</a></li>
 
 			<li class="nav-header">IRC Bot</li>
 			<li><a href="//github.com/sparksp/laravel-ircbot">Laravel IRC Bot</a></li>
