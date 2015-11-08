@@ -13,30 +13,26 @@ fork-path: https://github.com/sparksp
 	<div class="span3">
 		<nav><ul class="nav nav-list">
 			<li class="nav-header">Websites</li>
-			<li><a href="http://github.com/sparksp/phills.me.uk">Phill Sparks</a></li>
-			<li><a href="http://github.com/sparksp/womble">Womble</a></li>
+			<li><a href="//github.com/sparksp/phills.me.uk">Phill Sparks</a></li>
+			<li><a href="//github.com/sparksp/womble">Womble</a></li>
+			<li><a href="//github.com/sparksp/habook">Womble</a></li>
 
-			<li class="nav-header">Misc. Forks</li>
-			<li><a href="http://github.com/sparksp/dotvim">dotvim</a></li>
+			<li class="nav-header">IRC Bot</li>
+			<li><a href="//github.com/sparksp/laravel-ircbot">Laravel IRC Bot</a></li>
+
+			<li class="nav-header">Miscellaneous</li>
+			<li><a href="//github.com/sparksp/dotfiles">dotfiles</a></li>
 		</ul></nav>
 	</div><div class="span3 offset3">
 		<nav><ul class="nav nav-list">
-			<li class="nav-header">Laravel Bundles</li>
+			<li class="nav-header">Laravel 3.x Bundles</li>
 			<li><a href="/laravel-apigen">ApiGen Bundle</a></li>
 			<li><a href="/laravel-bootstrap">Bootsparks Bundle</a></li>
 			<li><a href="/laravel-gravatar">Gravitas Bundle</a></li>
 			<li><a href="/laravel-markdown">Sparkdown Bundle</a></li>
 			<li><a href="/laravel-service">Service Bundle</a></li>
 			<li><a href="/laravel-syntaxhighlighter">SyntaxHighlighter Bundle</a></li>
-			<li><a href="/laravel-html-menu">Τόπος Bundle <small class="label label-info">updated</small></a></li>
-		</ul></nav>
-	</div><div class="span3">
-		<nav><ul class="nav nav-list">
-			<li class="nav-header">Laravel Projects</li>
-			<li><a href="http://github.com/laravel/laravel">Laravel</a></li>
-			<li><a href="http://github.com/laravel/docs">Laravel Docs</a></li>
-			<li><a href="http://github.com/laravel/fluxbb-style">Laravel FluxBB Style</a></li>
-			<li><a href="http://github.com/laravel/tests">Laravel Tests</a></li>
+			<li><a href="/laravel-html-menu">Τόπος Bundle</a></li>
 		</ul></nav>
 	</div>
 </div>
